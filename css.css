@@ -30,9 +30,9 @@ input:focus{
     border: 2px solid orange;
 }
 Button {
-    background-color: orange;
+    background-color: rgb(74, 187, 9);
     border-radius: 28px;
-    border: 1px solid orange;
+    border:none;
     display: inline-block;
     cursor: pointer;
     color: #ffffff;
